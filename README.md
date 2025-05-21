@@ -17,9 +17,7 @@ This repository contains educational and experimental notebooks on quantum compu
 
 ## 🔧 Requirements
 
-Make sure you have Python 3.8 or newer installed.
-
-Dependencies:
+Python 3.8 or newer installed.
 
 ## 📦 Dependencies
 

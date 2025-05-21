@@ -1,4 +1,4 @@
-# Quantum Computing
+# ⚛️ Quantum Computing
 
 This repository contains educational and experimental notebooks on quantum computing, with a focus on quantum machine learning and variational algorithms.
 
@@ -21,15 +21,16 @@ Make sure you have Python 3.8 or newer installed.
 
 Dependencies:
 
-pennylane 
-qiskit 
-torch 
-jax
-numpy 
-matplotlib 
-scipy 
-scikit-learn 
-seaborn 
-jupyterlab
-hierarqcal
+## 📦 Dependencies
 
+- [PennyLane](https://pennylane.ai)
+- [Qiskit](https://qiskit.org)
+- [HierarQcal](https://github.com/matt-lourens/hierarqcal)
+- [PyTorch](https://pytorch.org/)
+- [JAX](https://github.com/google/jax)
+- NumPy
+- SciPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- JupyterLab
